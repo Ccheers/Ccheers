@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
-## 我参与贡献的项目
+## Contributions
 
 🌱  [kratos](https://github.com/go-kratos/kratos)
 
@@ -32,8 +32,3 @@ Here are some ideas to get you started:
 
 🌱  [go-openai](https://github.com/sashabaranov/go-openai)
 
-
-
-## 联系我
-
- 📫  Email: dd64888@gmail.com
