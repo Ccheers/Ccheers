@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @Ccheers
-- 👀 I’m interested in Observability & DDD
-- 🌱 Golang
 - 📫 Email: dd64888@gmail.com
 
-# resurgence72
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Ccheers
 | <a href="https://github.com/Ccheers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ccheers&count_private=true&show_icons=true&theme=buefy&include_all_commits&hide_border=true" alt="Ccheers's github stats" /></a> | <a href="https://github.com/Ccheers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ccheers&hide=javascript,html,css&theme=buefy&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
