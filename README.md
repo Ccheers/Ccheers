@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 🌱  [kratos](https://github.com/go-kratos/kratos)
 
-🌱  [dragonfly](https://github.com/dragonflyoss/Dragonfly2)
+🌱  [tekton](https://github.com/tektoncd/pipeline)
 
 🌱  [go-openai](https://github.com/sashabaranov/go-openai)
+
+🌱  [dragonfly](https://github.com/dragonflyoss/Dragonfly2)
+
 
